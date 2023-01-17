@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alikulaOwen a python and javascript coder
 - 👀 I’m interested in Rust, Microkernerl and Linux kernel
-- 🌱 I’m currently learning rust and GVP
+- 🌱 I’m currently learning rust and GCP
 - 📫 How to reach me @alikula0 on Twitter or 
    mail alikulaowen@gmail.com/owenalikula@proton.me 
 
